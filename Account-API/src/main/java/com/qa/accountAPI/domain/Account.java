@@ -135,4 +135,9 @@ public class Account {
 		return true;
 	}
 
+	public static String toString(Account registeredAccount) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
